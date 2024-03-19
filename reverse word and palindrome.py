@@ -9,5 +9,3 @@ if a == b:
     print(a, "is a palindrome")
 else:
     print(a, "is not a palindrome")
-
-
