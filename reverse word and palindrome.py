@@ -8,4 +8,5 @@ b = newstr
 if a == b:
     print(a, "is a palindrome")
 else:
-    print(a, "is not a palindrome")
+    print(a, "is not a palindromeeee")
+
