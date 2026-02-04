@@ -5,6 +5,8 @@ while n > 0:
     n = n - 1
 print("Factorial of the given number is:::::", fact)
 
+print("Factorial of the given number is:", fact)
+
 
 
 
